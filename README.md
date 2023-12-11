@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![flutter](https://github.com/ljyo2o9/ljyo2o9/assets/126755727/5049354d-6786-4169-99b7-58ab9e20ebad)
+
 
 <!--
 **ljyo2o9/ljyo2o9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
